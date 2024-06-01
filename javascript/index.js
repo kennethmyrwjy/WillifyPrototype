@@ -82,7 +82,7 @@ function validateForm() {
     }
 
     // var registerButton = document.getElementById('register-button');
-    window.location.href = 'home.html';
+    window.location.href = 'index.html';
     return true;
 }
 
