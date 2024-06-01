@@ -332,6 +332,9 @@ p {
     flex-wrap: nowrap;
     padding: 10px;
 }
+.carousel a {
+    text-decoration: none;
+}
 
 .song-card {
     flex: 0 0 auto;
